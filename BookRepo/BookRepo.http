@@ -1,0 +1,6 @@
+@BookRepo_HostAddress = http://localhost:5139
+
+GET {{BookRepo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
